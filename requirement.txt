@@ -1,0 +1,5 @@
+pandas
+sklearn
+stop_words
+streamlit
+joblib
